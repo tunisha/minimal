@@ -3,22 +3,22 @@ logo: /assets/img/profile.png
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  
   <a href="https://www.linkedin.com/in/tunisha-varshney-16490a4a/">LinkedIn</a> |
   <a href="https://github.com/tunisha">GitHub</a>
   
   <br>   
   I am pursuing Executive PG Programme in Machine Learning & AI 
-  and Ph.D. from NIT Delhi. I have worked in various Engineering institute.
-  I have 4 years of experience in that. I have also worked as Data Science Intern in Evolv Fit.
+  and Ph.D. from NIT Delhi. I have also worked as Data Science 
+  Intern in Evolv Fit.
   <br>
   <br>
   </p>
 
 
-
+<p>
 theme: jekyll-theme-minimal
-
+</p>
 
 
 
