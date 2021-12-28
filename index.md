@@ -16,5 +16,5 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 This model is used for detection of yogapose done by user. It will also help the user to count the reps,
 
-<center><img src="asset/img/yoga.jpg"/></center>
+<center><img src="assets/img/yoga.jpg"/></center>
 
